@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">EmptyViewActivityOld</string>
+    <string name="main_string_of_my_app">Текст был изменен %s раз</string>
+</resources>
